@@ -1,0 +1,108 @@
+.header {
+    width: 100%;
+    background-color:#67D1A9;
+    height: 100px;
+    margin-top: -20px;
+    padding: 0px;
+}
+.home {
+    margin-left: 1500px;
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-top: -30px;
+
+}
+.contact {
+    margin-left: 1700px;
+    margin-top: -62px;
+    color:white;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.about {
+    margin-left: 1600px;
+    margin-top: -65px;
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.mountains {
+    align-items: center;
+    justify-content: center;
+}
+.upper {
+    background-color:#f7f7f7 ;
+    margin: 0;
+    padding: 0;
+    height: 813px;
+}
+body {
+    padding: -8;
+    margin: -8;
+    margin-bottom: 0;
+    margin-top: 0;
+    background-color: #f7f7f7;
+}
+.name {
+   margin-bottom: -60px; 
+   font-size: 70px;
+   font-family: source sans Pro ;
+   margin-left: 100px;
+   font-style: italic;
+   color: white;
+}
+.nametwo {
+    color:#4CAE89;
+    font-size: 70px;
+    font-family: source code pro ;
+}
+.namesub {
+    color:#4CAE89;
+    font-size: 50px;
+    font-family: sitka;
+    font-style: bold;
+    font-style: italic;
+    margin-top: -40px;
+}
+.lower {
+    background-color: white;
+    height: 500px;
+}
+.footer {
+    background-color: #4CAE89;
+    height: 100px;
+    margin-top: -24px;
+}
+.copyright {
+    font-family: sans-serif;
+    color: white;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.waving {
+    height: 300px;
+    width: 300px;
+    margin-left: 400px;
+}
+.msgone {
+    font-family: source code pro ;
+    font-style: bold;
+    color: #4CAE89;
+    font-size: 45px;
+    margin-bottom: -60px;
+}
+.msgtwo {
+    font-family: source code pro ;
+    font-style: bold;
+    color: #4CAE89;
+    font-size: 45px;
+}
+hr {
+    margin-bottom: 60px;
+    height: 0px;
+    border-style: dotted;
+    border-width: 0 0px 15px 0px;
+    width: 125px;
+    color: #dbd3d3;
+}
